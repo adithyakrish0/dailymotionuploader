@@ -1,0 +1,52 @@
+{
+  "video_filename": "target_short_hook_8.mp4",
+  "title": "The ONE Law Schools Should Have 🤯 #shorts",
+  "description": "Speaker argues for a radical global law: making emotional mastery a mandatory subject for every child in school. They contend that a lack of emotional intelligence leaves individuals ill-equipped to navigate personal and societal pain, which is the root cause of most struggles. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#TheSpeaker #EmotionalMastery #EducationReform #MentalHealth #PainManagement #shorts",
+  "tags": [
+    "thespeaker",
+    "emotionalmastery",
+    "educationreform",
+    "mentalhealth",
+    "painmanagement",
+    "shorts"
+  ],
+  "pinned_comment": "Do you agree that emotional mastery should be a 'law' in schools? What are the biggest challenges to implementing something like this globally? 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-08T12:26:14.874041+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "target_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[blur_text_reveal,lottie_burst_accent]",
+  "active_templates": [
+    "blur_text_reveal",
+    "lottie_burst_accent"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 43.38,
+      "duration": 0.66,
+      "priority": 9,
+      "params": {
+        "phrase": "to come up with",
+        "phrase_start": 43.38,
+        "phrase_end": 43.74
+      }
+    },
+    {
+      "id": "lottie_burst_accent",
+      "type": "lottie",
+      "start": 48.3,
+      "duration": 0.8,
+      "priority": 6,
+      "params": {
+        "lottie_file": "burst_accent.json"
+      }
+    }
+  ],
+  "content_hash": "a019fbd7dc0fe6d877c370c70eff61332e42cae3880b4fb48800fce2cc1ff836",
+  "thumbnail_file": "target_short_hook_8_thumb.jpg",
+  "thumb_offset_ms": 0
+}

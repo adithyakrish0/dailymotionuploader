@@ -1,0 +1,42 @@
+{
+  "video_filename": "target_short_hook_6.mp4",
+  "title": "My Mom Tried To Help My Bullying, It Got WORSE 😭 #shorts",
+  "description": "Speaker vividly recounts his childhood struggle, being one of only five people of color and overweight in primary school, which made him a target for relentless bullying. He reveals that his mom's well-intentioned interventions at school only intensified the embarrassment, making his journey to find confidence even more challenging. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #Bullying #ChildhoodStruggles #Parenting #Confidence #LifeLessons",
+  "tags": [
+    "speaker",
+    "bullying",
+    "childhoodstruggles",
+    "parenting",
+    "confidence",
+    "lifelessons",
+    "shorts"
+  ],
+  "pinned_comment": "Should parents always intervene directly when their kids are bullied, or does it sometimes backfire and make things worse? What's your experience? 🤔👇",
+  "duration_seconds": 51.57,
+  "created_at": "2026-10-08T11:49:26.189596+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "target_short",
+  "hook_type": "story",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[blur_text_reveal]",
+  "active_templates": [
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 35.78,
+      "duration": 2.0,
+      "priority": 9,
+      "params": {
+        "phrase": "my of it I",
+        "phrase_start": 35.78,
+        "phrase_end": 37.48
+      }
+    }
+  ],
+  "content_hash": "5c70e14fe04717dda2539702d0d50a8320f0b39c94b98cfb8b52f09f3d5c9eee",
+  "thumbnail_file": "target_short_hook_6_thumb.jpg",
+  "thumb_offset_ms": 0
+}

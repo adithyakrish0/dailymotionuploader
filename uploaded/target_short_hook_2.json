@@ -1,0 +1,41 @@
+{
+  "video_filename": "target_short_hook_2.mp4",
+  "title": "Why 200 MPH Is Speaker's PEACE Zone 🤯 #shorts",
+  "description": "While most find driving 200 miles per hour terrifying, Speaker reveals it's actually when they feel most at peace. Despite admitting a fear of spiders, Speaker claims that high-speed extreme is their true 'element' where they feel completely in flow. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #Fearless #Adrenaline #Mindset #HighSpeed #shorts",
+  "tags": [
+    "speaker",
+    "fearless",
+    "adrenaline",
+    "mindset",
+    "highspeed",
+    "shorts"
+  ],
+  "pinned_comment": "Do you think finding peace at 200 MPH is something you're born with, or can it be learned? Share your thoughts! 👇",
+  "duration_seconds": 39.83,
+  "created_at": "2026-10-08T11:06:45.531208+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "target_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[blur_text_reveal]",
+  "active_templates": [
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 27.38,
+      "duration": 2.06,
+      "priority": 9,
+      "params": {
+        "phrase": "spiders. Yeah That's the",
+        "phrase_start": 27.38,
+        "phrase_end": 29.14
+      }
+    }
+  ],
+  "content_hash": "03cc4dfb5d2fcc3ff4aef0302cbfff40a4748acb4cd4c20b7bd402f23ec695d1",
+  "thumbnail_file": "target_short_hook_2_thumb.jpg",
+  "thumb_offset_ms": 0
+}

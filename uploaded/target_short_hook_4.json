@@ -1,0 +1,54 @@
+{
+  "video_filename": "target_short_hook_4.mp4",
+  "title": "My Dad Taught Me To NEVER Cry... Until This Happened 💔 #shorts",
+  "description": "Speaker confesses to not shedding a tear for over 10 years, conditioned from childhood to suppress emotions. This changed drastically in 2020, leading to a powerful realization about bottled-up pain and a fierce commitment to speak out and risk everything for what's right. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #EmotionalIntelligence #BottledEmotions #SpeakYourTruth #VulnerabilityIsStrength #shorts",
+  "tags": [
+    "speaker",
+    "emotionalintelligence",
+    "bottledemotions",
+    "speakyourtruth",
+    "vulnerabilityisstrength",
+    "shorts"
+  ],
+  "pinned_comment": "Is it truly a sign of weakness to cry, or does bottling up emotions do more harm in the long run? Share your thoughts below 👇",
+  "duration_seconds": 45.4,
+  "created_at": "2026-10-08T11:29:17.229451+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "target_short",
+  "hook_type": "confession",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[rough_annotation,blur_text_reveal]",
+  "active_templates": [
+    "rough_annotation",
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "rough_annotation",
+      "type": "svg_hand_drawn",
+      "start": 15.82,
+      "duration": 1.4,
+      "priority": 8,
+      "params": {
+        "annotation_type": "circle",
+        "target_word": "2020,",
+        "color": "#FFD60A"
+      }
+    },
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 31.26,
+      "duration": 1.38,
+      "priority": 9,
+      "params": {
+        "phrase": "to be I've got",
+        "phrase_start": 31.26,
+        "phrase_end": 32.34
+      }
+    }
+  ],
+  "content_hash": "0377ef1029b69f8f4f9efae97ed78118c1f77de08c8838a55fed3745c4ff9e37",
+  "thumbnail_file": "target_short_hook_4_thumb.jpg",
+  "thumb_offset_ms": 0
+}

@@ -1,0 +1,41 @@
+{
+  "video_filename": "target_short_hook_3.mp4",
+  "title": "Why I risked my career for what I believe in ✊ #shorts",
+  "description": "Speaker reveals the agonizing moment they decided to \"risk it all\" and be outspoken, even if it meant losing partners and career opportunities. They passionately encourage others to find their voice and speak out against injustice, detailing the fear they overcame to \"take the knee\" publicly. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #SpeakOut #Courage #CareerRisk #BLM #shorts",
+  "tags": [
+    "speaker",
+    "speakout",
+    "courage",
+    "careerrisk",
+    "blm",
+    "shorts"
+  ],
+  "pinned_comment": "Would you risk your partnerships or job to stand for what's right? Let us know 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-08T11:19:38.583146+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "target_short",
+  "hook_type": "story",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[blur_text_reveal]",
+  "active_templates": [
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 43.86,
+      "duration": 1.2,
+      "priority": 9,
+      "params": {
+        "phrase": "it and there's a",
+        "phrase_start": 43.86,
+        "phrase_end": 44.76
+      }
+    }
+  ],
+  "content_hash": "bd513f22586c8972cbca259f03e443745d32bfce31c5a10d84a221b8546c0568",
+  "thumbnail_file": "target_short_hook_3_thumb.jpg",
+  "thumb_offset_ms": 0
+}

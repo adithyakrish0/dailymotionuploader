@@ -1,0 +1,55 @@
+{
+  "video_filename": "target_short_hook_10.mp4",
+  "title": "This Bold Change Won A World Title 🏆 #shorts",
+  "description": "Speaker reveals the radical decision to change their iconic silver car to black in 2020, defying decades of tradition. He attributes winning his seventh world title that year to the powerful message sent by \"how you show up\" with that bold, new look. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#SpeakerMotivation #F1Secrets #VisualStrategy #ChampionshipMindset #WinningAttitude #shorts",
+  "tags": [
+    "speakermotivation",
+    "f1secrets",
+    "visualstrategy",
+    "championshipmindset",
+    "winningattitude",
+    "shorts"
+  ],
+  "pinned_comment": "Could a simple change like a car's color truly influence a world championship, or is it purely symbolic? Share your take! 👇",
+  "duration_seconds": 24.3,
+  "created_at": "2026-10-08T12:49:00.762496+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "target_short",
+  "hook_type": "story",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[metric_count_up,blur_text_reveal]",
+  "active_templates": [
+    "metric_count_up",
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 5.09,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 2020,
+        "prefix": "",
+        "suffix": "",
+        "label": ""
+      }
+    },
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 16.78,
+      "duration": 0.88,
+      "priority": 9,
+      "params": {
+        "phrase": "car for the whole",
+        "phrase_start": 16.78,
+        "phrase_end": 17.36
+      }
+    }
+  ],
+  "content_hash": "a855f0ab82b7588eb5bcd309d8672bddf25c2d2f0a64f029acc417f525f348d0",
+  "thumbnail_file": "target_short_hook_10_thumb.jpg",
+  "thumb_offset_ms": 0
+}

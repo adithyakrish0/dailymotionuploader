@@ -1,0 +1,65 @@
+{
+  "video_filename": "target_short_hook_1.mp4",
+  "title": "At 8, they told him to quit. He never forgot it 💔 #shorts",
+  "description": "Speaker confesses how he was told to \"just give up\" on racing at 8 years old by other parents, and later a teacher claimed he'd \"never amount to anything,\" profoundly breaking him down. He now attributes his resilience to these early struggles, believing success is fleeting and far more valuable lessons are learned through experiencing loss. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #NeverQuit #Mindset #Perseverance #LifeLessons #Shorts",
+  "tags": [
+    "speaker",
+    "neverquit",
+    "mindset",
+    "perseverance",
+    "lifelessons",
+    "shorts"
+  ],
+  "pinned_comment": "Is it ever okay for adults to tell an 8-year-old to 'just give up'? Share your thoughts 👇",
+  "duration_seconds": 53.4,
+  "created_at": "2026-10-08T10:59:10.520959+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "target_short",
+  "hook_type": "confession",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[blur_text_reveal,lottie_burst_accent,rough_annotation]",
+  "active_templates": [
+    "blur_text_reveal",
+    "lottie_burst_accent",
+    "rough_annotation"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 36.16,
+      "duration": 1.46,
+      "priority": 9,
+      "params": {
+        "phrase": "a teacher tell me",
+        "phrase_start": 36.16,
+        "phrase_end": 37.32
+      }
+    },
+    {
+      "id": "lottie_burst_accent",
+      "type": "lottie",
+      "start": 41.16,
+      "duration": 0.8,
+      "priority": 6,
+      "params": {
+        "lottie_file": "burst_accent.json"
+      }
+    },
+    {
+      "id": "rough_annotation",
+      "type": "svg_hand_drawn",
+      "start": 48.22,
+      "duration": 1.4,
+      "priority": 8,
+      "params": {
+        "annotation_type": "underline",
+        "target_word": "Success",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "30e7d9bd1e40e87ee5e6c803f252dc610011b68c74af13fa9ae174328d5c19bf",
+  "thumbnail_file": "target_short_hook_1_thumb.jpg",
+  "thumb_offset_ms": 0
+}

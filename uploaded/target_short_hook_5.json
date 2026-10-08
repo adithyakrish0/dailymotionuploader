@@ -1,0 +1,67 @@
+{
+  "video_filename": "target_short_hook_5.mp4",
+  "title": "The 3% Diversity Problem in Sports Hiring! 🚫 #shorts",
+  "description": "Speaker reveals a shocking truth: only 3% of a 2000-person team showed diversity, sparking a critical mission for change. They discovered young black students are twice as unlikely to be hired and paid less when entering the sports industry. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #diversity #inclusion #sportsindustry #discrimination #shorts",
+  "tags": [
+    "speaker",
+    "diversity",
+    "inclusion",
+    "sportsindustry",
+    "discrimination",
+    "shorts"
+  ],
+  "pinned_comment": "Given these alarming statistics about diversity and hiring in sports, what do you think is the most urgent change needed? Share your thoughts! 👇",
+  "duration_seconds": 32.07,
+  "created_at": "2026-10-08T11:36:42.499879+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "target_short",
+  "hook_type": "statistic",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[metric_count_up,svg_draw_underline,blur_text_reveal]",
+  "active_templates": [
+    "metric_count_up",
+    "svg_draw_underline",
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 2.39,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 3,
+        "prefix": "",
+        "suffix": "%",
+        "label": ""
+      }
+    },
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 15.78,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "DIVERSE",
+        "color": "#FFD60A"
+      }
+    },
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 21.7,
+      "duration": 1.58,
+      "priority": 9,
+      "params": {
+        "phrase": "when they come out",
+        "phrase_start": 21.7,
+        "phrase_end": 22.98
+      }
+    }
+  ],
+  "content_hash": "40f4c3701c10a690d4888b735c80c19fbc39343e5e178cc965652903184a93ad",
+  "thumbnail_file": "target_short_hook_5_thumb.jpg",
+  "thumb_offset_ms": 0
+}

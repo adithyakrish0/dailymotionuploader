@@ -1,0 +1,53 @@
+{
+  "video_filename": "target_short_hook_9.mp4",
+  "title": "Even 7x World Champions Doubt Themselves 🤯 #shorts",
+  "description": "Speaker, a 7-time world champion, candidly admits to still battling days where they feel \"not enough,\" a shocking confession despite their unparalleled success. They reveal the critical role of having a support system, like their dad, to reaffirm belief and shut down self-doubt when it strikes. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #selfdoubt #mindset #worldchampion #motivation #shorts",
+  "tags": [
+    "speaker",
+    "selfdoubt",
+    "mindset",
+    "worldchampion",
+    "motivation",
+    "shorts"
+  ],
+  "pinned_comment": "Even a 7x world champion needs constant reassurance. Who's in your corner when self-doubt creeps in? 👇",
+  "duration_seconds": 30.7,
+  "created_at": "2026-10-08T12:38:56.880191+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "target_short",
+  "hook_type": "confession",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[svg_draw_underline,blur_text_reveal]",
+  "active_templates": [
+    "svg_draw_underline",
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 12.48,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "STILL",
+        "color": "#FFD60A"
+      }
+    },
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 21.58,
+      "duration": 1.4,
+      "priority": 9,
+      "params": {
+        "phrase": "something that's maybe not",
+        "phrase_start": 21.58,
+        "phrase_end": 22.68
+      }
+    }
+  ],
+  "content_hash": "e49feef4da2012b07d331b8639115a9fce05a84d0310067d3e24981322271a6d",
+  "thumbnail_file": "target_short_hook_9_thumb.jpg",
+  "thumb_offset_ms": 0
+}

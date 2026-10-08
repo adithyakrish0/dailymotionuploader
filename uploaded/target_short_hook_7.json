@@ -1,0 +1,53 @@
+{
+  "video_filename": "target_short_hook_7.mp4",
+  "title": "Should we legally limit wealth? Speaker's shocking take! 💰 #shorts",
+  "description": "Speaker reveals his daily struggle with global wealth disparity, proposing a radical law to limit individual wealth. He believes capping fortunes would ensure equal access for all, citing the heartbreaking reality of starving kids and people on LA's streets. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #WealthEquality #SocialJustice #LimitWealth ##Poverty #shorts",
+  "tags": [
+    "speaker",
+    "wealthequality",
+    "socialjustice",
+    "limitwealth",
+    "poverty",
+    "shorts"
+  ],
+  "pinned_comment": "Speaker argues for a law to limit wealth, citing starving kids and LA's homeless. Is capping wealth the answer to inequality, or does it stifle ambition? Share your perspective! 👇",
+  "duration_seconds": 55.53,
+  "created_at": "2026-10-08T12:09:20.080857+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "target_short",
+  "hook_type": "question",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[svg_draw_underline,blur_text_reveal]",
+  "active_templates": [
+    "svg_draw_underline",
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 34.08,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "EVERYONE",
+        "color": "#FFD60A"
+      }
+    },
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 39.08,
+      "duration": 0.98,
+      "priority": 9,
+      "params": {
+        "phrase": "jeez man, I've met",
+        "phrase_start": 39.08,
+        "phrase_end": 39.76
+      }
+    }
+  ],
+  "content_hash": "3f2d1b3247d022efe8bc296dc68ac6e32adbe8731f792a28aad24b96e692a41d",
+  "thumbnail_file": "target_short_hook_7_thumb.jpg",
+  "thumb_offset_ms": 0
+}
