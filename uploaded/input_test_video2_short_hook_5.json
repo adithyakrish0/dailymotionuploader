@@ -1,0 +1,80 @@
+{
+  "video_filename": "input_test_video2_short_hook_5.mp4",
+  "title": "Why Motivation Is DEAD (Use THIS Instead) 🤯 #shorts",
+  "description": "Speaker reveals identity as the ultimate hack for rapid behavioral change, making it take '30 seconds' to understand. He illustrates this with an Olympic athlete who, suddenly weighing 295 pounds, would shed it 'lightning' fast because their core identity rejects that body. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#identity #motivation #mindset #behaviorhacks #Speaker #shorts",
+  "tags": [
+    "identity",
+    "motivation",
+    "mindset",
+    "behaviorhacks",
+    "speaker",
+    "shorts"
+  ],
+  "pinned_comment": "Is identity truly more powerful than discipline or pure willpower? What do YOU think? 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-09T16:29:52.299827+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "input_test_video2_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[metric_count_up,rough_annotation,svg_draw_underline,blur_text_reveal]",
+  "active_templates": [
+    "metric_count_up",
+    "rough_annotation",
+    "svg_draw_underline",
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 6.95,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 30,
+        "prefix": "",
+        "suffix": "",
+        "label": ""
+      }
+    },
+    {
+      "id": "rough_annotation",
+      "type": "svg_hand_drawn",
+      "start": 25.32,
+      "duration": 1.4,
+      "priority": 8,
+      "params": {
+        "annotation_type": "circle",
+        "target_word": "295",
+        "color": "#FFD60A"
+      }
+    },
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 33.98,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "LIGHTNING",
+        "color": "#FFD60A"
+      }
+    },
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 42.42,
+      "duration": 1.26,
+      "priority": 9,
+      "params": {
+        "phrase": "oh, I want to",
+        "phrase_start": 42.42,
+        "phrase_end": 43.38
+      }
+    }
+  ],
+  "content_hash": "271f5c2c3602ca74d62518ab6dcd358120dca27bbc1ef26324b1d95f21fcdf50",
+  "thumbnail_file": "input_test_video2_short_hook_5_thumb.jpg",
+  "thumb_offset_ms": 0
+}

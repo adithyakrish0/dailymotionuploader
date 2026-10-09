@@ -1,0 +1,66 @@
+{
+  "video_filename": "input_test_video2_short_hook_2.mp4",
+  "title": "The EASIEST way to BRAINWASH anyone... even you! 🧠 #shorts",
+  "description": "Speaker reveals the disturbing truth: micro-compliance is the #1 way to influence any human, even enabling cult leaders to recruit in minutes with simple, seemingly meaningless tasks. He shockingly claims our brains haven't evolved in 200,000 years, making them susceptible to basic 'brainwashing' tactics like novelty to change beliefs and behaviors. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #Brainwashing #Influence #Psychology #MindHacks #Shorts",
+  "tags": [
+    "speaker",
+    "brainwashing",
+    "influence",
+    "psychology",
+    "mindhacks",
+    "shorts"
+  ],
+  "pinned_comment": "If our brains haven't changed in 200,000 years, what does that imply about free will and modern society? Discuss! 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-09T14:31:11.545943+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "input_test_video2_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[metric_count_up,blur_text_reveal,lottie_burst_accent]",
+  "active_templates": [
+    "metric_count_up",
+    "blur_text_reveal",
+    "lottie_burst_accent"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 29.31,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 50,
+        "prefix": "",
+        "suffix": "",
+        "label": ""
+      }
+    },
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 48.46,
+      "duration": 1.76,
+      "priority": 9,
+      "params": {
+        "phrase": ",000 years So a",
+        "phrase_start": 48.46,
+        "phrase_end": 49.92
+      }
+    },
+    {
+      "id": "lottie_burst_accent",
+      "type": "lottie",
+      "start": 54.48,
+      "duration": 0.8,
+      "priority": 6,
+      "params": {
+        "lottie_file": "burst_accent.json"
+      }
+    }
+  ],
+  "content_hash": "96c4da4501b1ff716678864a875bc7663fd1ec95f3a705803ccfe03604225ba6",
+  "thumbnail_file": "input_test_video2_short_hook_2_thumb.jpg",
+  "thumb_offset_ms": 0
+}

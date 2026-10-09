@@ -1,0 +1,41 @@
+{
+  "video_filename": "input_test_video2_short_hook_11.mp4",
+  "title": "He did 5 hours of DMT to fix his brain 🧠 #shorts",
+  "description": "Speaker reveals he was the 41st person globally to undergo a groundbreaking 5-hour intravenous DMT session, a stark contrast to typical 5-minute experiences. He undertook this intense journey to combat a brain disease, claiming the powerful neuroplasticity boost left him 'completely different' ever since, despite its overwhelming intensity. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#DMT #BrainHealth #Neuroplasticity #Biohacking #Speaker #shorts",
+  "tags": [
+    "dmt",
+    "brainhealth",
+    "neuroplasticity",
+    "biohacking",
+    "speaker",
+    "shorts"
+  ],
+  "pinned_comment": "If you had a brain disease, would you consider a 5-hour DMT session like the Speaker did to fix it? 🤔",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-09T18:03:31.303173+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "input_test_video2_short",
+  "hook_type": "confession",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[blur_text_reveal]",
+  "active_templates": [
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 43.42,
+      "duration": 1.94,
+      "priority": 9,
+      "params": {
+        "phrase": "it recreationally For anyone",
+        "phrase_start": 43.42,
+        "phrase_end": 45.06
+      }
+    }
+  ],
+  "content_hash": "d41c62c7cb8e53e1a8b5dee811dbbe640feb0d74a3cb5bb22d43f6a08e2bffe4",
+  "thumbnail_file": "input_test_video2_short_hook_11_thumb.jpg",
+  "thumb_offset_ms": 0
+}

@@ -1,0 +1,53 @@
+{
+  "video_filename": "input_test_video2_short_hook_7.mp4",
+  "title": "Your kids DON'T deserve your success. Here's why. 💔 #shorts",
+  "description": "Speaker shares a brutal strategy for a father of three: create a desktop wallpaper stating 'my kids don't deserve me to be successful.' This shocking tactic, Speaker argues, generates disgust and hyper-awareness, compelling individuals to confront limiting beliefs and aggressively pursue success. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#limitingbeliefs #mindsetshift #motivation #successmindset #personalgrowth #shorts",
+  "tags": [
+    "limitingbeliefs",
+    "mindsetshift",
+    "motivation",
+    "successmindset",
+    "personalgrowth",
+    "shorts"
+  ],
+  "pinned_comment": "Is creating a desktop wallpaper that says 'my kids don't deserve for me to be successful' too extreme or a genius move for motivation? Share your thoughts below! 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-09T16:50:20.433448+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "input_test_video2_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[blur_text_reveal,svg_draw_underline]",
+  "active_templates": [
+    "blur_text_reveal",
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 43.38,
+      "duration": 1.52,
+      "priority": 9,
+      "params": {
+        "phrase": "same sentence, but you're",
+        "phrase_start": 43.38,
+        "phrase_end": 44.6
+      }
+    },
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 49.5,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "ABOUT",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "01e4339049054cf03ad638f531faab90de24f9605896f6c254fb3e23103d878f",
+  "thumbnail_file": "input_test_video2_short_hook_7_thumb.jpg",
+  "thumb_offset_ms": 0
+}

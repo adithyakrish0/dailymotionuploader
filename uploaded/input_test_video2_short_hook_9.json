@@ -1,0 +1,55 @@
+{
+  "video_filename": "input_test_video2_short_hook_9.mp4",
+  "title": "They're Stealing Your Thoughts & You Can't Resist 🤫 #shorts",
+  "description": "Speaker unveils what he calls the most dangerous persuasion skill: giving you two pieces of information without connecting them. This tactic makes your brain believe the resulting idea is its own, rendering it impossible to resist. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#persuasion #psychology #manipulation #mindcontrol #speaker #shorts",
+  "tags": [
+    "persuasion",
+    "psychology",
+    "manipulation",
+    "mindcontrol",
+    "speaker",
+    "shorts"
+  ],
+  "pinned_comment": "Given how effective this 'Lego' persuasion skill is, do you think it's ethical to use? Share your thoughts below 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-09T17:33:01.715287+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "input_test_video2_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[metric_count_up,blur_text_reveal]",
+  "active_templates": [
+    "metric_count_up",
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 9.29,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 10,
+        "prefix": "",
+        "suffix": "",
+        "label": ""
+      }
+    },
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 41.76,
+      "duration": 1.12,
+      "priority": 9,
+      "params": {
+        "phrase": "do is make you",
+        "phrase_start": 41.76,
+        "phrase_end": 42.58
+      }
+    }
+  ],
+  "content_hash": "76151e780111b4a87f14a381e1be683092bfede81d16a28f4211f150028e0d60",
+  "thumbnail_file": "input_test_video2_short_hook_9_thumb.jpg",
+  "thumb_offset_ms": 0
+}

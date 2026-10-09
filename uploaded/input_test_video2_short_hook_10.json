@@ -1,0 +1,53 @@
+{
+  "video_filename": "input_test_video2_short_hook_10.mp4",
+  "title": "The SECRET Question That Won My Lawsuit 🤫 #shorts",
+  "description": "Speaker confesses his ingenious strategy for winning a \"big lawsuit\" involving a lady who slipped on a green bean, despite opposing counsel's best efforts. He reveals the intense challenge of covertly identifying jurors with an internal locus of control to ensure victory. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #jurystrategy #lawsuit #courtroomsecrets #covert #shorts",
+  "tags": [
+    "speaker",
+    "jurystrategy",
+    "lawsuit",
+    "courtroomsecrets",
+    "covert",
+    "shorts"
+  ],
+  "pinned_comment": "If a lawyer asked you, \"How does a person catch a cold?\" how would you answer? Let us know below! 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-09T17:48:15.253102+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "input_test_video2_short",
+  "hook_type": "confession",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[svg_draw_underline,blur_text_reveal]",
+  "active_templates": [
+    "svg_draw_underline",
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 34.7,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "OPPOSITE",
+        "color": "#FFD60A"
+      }
+    },
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 41.78,
+      "duration": 0.96,
+      "priority": 9,
+      "params": {
+        "phrase": "figure out how do",
+        "phrase_start": 41.78,
+        "phrase_end": 42.44
+      }
+    }
+  ],
+  "content_hash": "d7cbc3800562bf7c98a7b2bbaf493ff8d0429953f776539b2021d89f49458d23",
+  "thumbnail_file": "input_test_video2_short_hook_10_thumb.jpg",
+  "thumb_offset_ms": 0
+}

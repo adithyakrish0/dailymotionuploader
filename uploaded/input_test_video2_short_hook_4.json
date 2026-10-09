@@ -1,0 +1,41 @@
+{
+  "video_filename": "input_test_video2_short_hook_4.mp4",
+  "title": "They're NOT Closed Off. Here's How To Make Them Agree 🤯 #shorts",
+  "description": "Speaker reveals a powerful psychological trick to get covert agreement in any conversation. He explains how to bypass surface-level arguments by making people subconsciously agree with an \"I am\" statement, effectively hacking their identity. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #Psychology #Persuasion #Communication #Mindset #Shorts",
+  "tags": [
+    "speaker",
+    "psychology",
+    "persuasion",
+    "communication",
+    "mindset",
+    "shorts"
+  ],
+  "pinned_comment": "Is it ethical to use this 'identity hacking' technique for persuasion? 🤔 What are your thoughts?",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-09T15:00:44.371038+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "input_test_video2_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[blur_text_reveal]",
+  "active_templates": [
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 49.06,
+      "duration": 2.26,
+      "priority": 9,
+      "params": {
+        "phrase": "So throughout the what",
+        "phrase_start": 49.06,
+        "phrase_end": 51.02
+      }
+    }
+  ],
+  "content_hash": "263b6f52b8d7d14df2a4004b2e68fd5956e82bf1291c265b3533c26637dec242",
+  "thumbnail_file": "input_test_video2_short_hook_4_thumb.jpg",
+  "thumb_offset_ms": 0
+}

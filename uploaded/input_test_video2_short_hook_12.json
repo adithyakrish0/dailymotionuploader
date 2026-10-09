@@ -1,0 +1,66 @@
+{
+  "video_filename": "input_test_video2_short_hook_12.mp4",
+  "title": "The 25-Minute Rule For Influencing Anyone ⏳ #shorts",
+  "description": "Speaker reveals how he mastered the 'time distance problem' when forced to conduct 45 interrogations in just two days, with only 25 minutes per session. He explains that the key to influencing behavior rapidly isn't about deleting trauma or problems, but about radically shifting perspective to achieve desired outcomes quickly. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #Psychology #Influence #PerspectiveShift #TimeManagement",
+  "tags": [
+    "speaker",
+    "psychology",
+    "influence",
+    "perspectiveshift",
+    "timemanagement",
+    "shorts"
+  ],
+  "pinned_comment": "Given the intensity of the 'time distance problem' Speaker faced, do you think his methods are applicable to everyday persuasion or only extreme situations? 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-09T19:04:35.293739+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "input_test_video2_short",
+  "hook_type": "statistic",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[metric_count_up,split_text_masked_reveal,lottie_burst_accent]",
+  "active_templates": [
+    "metric_count_up",
+    "split_text_masked_reveal",
+    "lottie_burst_accent"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 6.33,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 45,
+        "prefix": "",
+        "suffix": "",
+        "label": ""
+      }
+    },
+    {
+      "id": "split_text_masked_reveal",
+      "type": "masked_typography",
+      "start": 41.04,
+      "duration": 1.34,
+      "priority": 9,
+      "params": {
+        "phrase": "so many people are",
+        "phrase_start": 41.04,
+        "phrase_end": 42.08
+      }
+    },
+    {
+      "id": "lottie_burst_accent",
+      "type": "lottie",
+      "start": 52.04,
+      "duration": 0.8,
+      "priority": 6,
+      "params": {
+        "lottie_file": "burst_accent.json"
+      }
+    }
+  ],
+  "content_hash": "3470808394957e813218a5a5635394024ee824dee469bbce700c619ef277118a",
+  "thumbnail_file": "input_test_video2_short_hook_12_thumb.jpg",
+  "thumb_offset_ms": 0
+}

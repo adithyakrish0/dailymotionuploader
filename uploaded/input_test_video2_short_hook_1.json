@@ -1,0 +1,53 @@
+{
+  "video_filename": "input_test_video2_short_hook_1.mp4",
+  "title": "He Hypnotized A Cop To Fire His Gun 🤯 #shorts",
+  "description": "Speaker recounts a chilling true story of an off-duty police officer, hypnotized on stage, who pulled his service weapon and fired into a crowd, genuinely believing he was a sheriff under attack. This incredible incident demonstrates Speaker's powerful lesson that context entirely dictates human actions, proving how easily our behavior can be reprogrammed. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#psychology #humanbehavior #truestory #hypnosis #speaker #shorts",
+  "tags": [
+    "psychology",
+    "humanbehavior",
+    "truestory",
+    "hypnosis",
+    "speaker",
+    "shorts"
+  ],
+  "pinned_comment": "If context truly dictates our actions, does that absolve the officer, or are we always responsible for our subconscious? Let me know your thoughts! 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-09T14:16:00.899497+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "input_test_video2_short",
+  "hook_type": "story",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[blur_text_reveal,svg_draw_underline]",
+  "active_templates": [
+    "blur_text_reveal",
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 39.26,
+      "duration": 2.32,
+      "priority": 9,
+      "params": {
+        "phrase": "police officer out his",
+        "phrase_start": 39.26,
+        "phrase_end": 41.28
+      }
+    },
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 45.62,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "STORY",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "5148916445d8ed7eb3b1c24d2461a355cf2ed1d5fc411442b5825d0b002a6ad0",
+  "thumbnail_file": "input_test_video2_short_hook_1_thumb.jpg",
+  "thumb_offset_ms": 0
+}

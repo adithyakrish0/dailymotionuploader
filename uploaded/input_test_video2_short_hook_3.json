@@ -1,0 +1,68 @@
+{
+  "video_filename": "input_test_video2_short_hook_3.mp4",
+  "title": "The HIDDEN trick to make you say YES 🤯 #shorts",
+  "description": "Speaker reveals Bob Cialdini's shocking psychological trick that manipulates people into doing what they initially wouldn't. This insidious method proves that a small commitment to a seemingly innocent question about safe driving leads to residents placing a giant, ugly sign in their front yard. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#speaker #psychology #persuasion #manipulation #commitment #shorts",
+  "tags": [
+    "speaker",
+    "psychology",
+    "persuasion",
+    "manipulation",
+    "commitment",
+    "shorts"
+  ],
+  "pinned_comment": "Could this subtle technique be used for good, or is it always manipulative? Share your thoughts below! 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-09T14:45:35.636524+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "input_test_video2_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[metric_count_up,rough_annotation,blur_text_reveal]",
+  "active_templates": [
+    "metric_count_up",
+    "rough_annotation",
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 12.17,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 5,
+        "prefix": "",
+        "suffix": "%",
+        "label": ""
+      }
+    },
+    {
+      "id": "rough_annotation",
+      "type": "svg_hand_drawn",
+      "start": 22.48,
+      "duration": 1.4,
+      "priority": 8,
+      "params": {
+        "annotation_type": "circle",
+        "target_word": "15",
+        "color": "#FFD60A"
+      }
+    },
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 42.86,
+      "duration": 1.1,
+      "priority": 9,
+      "params": {
+        "phrase": "like, yeah, yeah, and",
+        "phrase_start": 42.86,
+        "phrase_end": 43.66
+      }
+    }
+  ],
+  "content_hash": "ae8c580e628f4c98c2037b980db77a9b74bdafcf81888fe2970bef52706662a1",
+  "thumbnail_file": "input_test_video2_short_hook_3_thumb.jpg",
+  "thumb_offset_ms": 0
+}

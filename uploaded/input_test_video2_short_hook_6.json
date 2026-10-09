@@ -1,0 +1,56 @@
+{
+  "video_filename": "input_test_video2_short_hook_6.mp4",
+  "title": "Your Childhood Secretly Governs 90% of Your Life 🤯 #shorts",
+  "description": "Speaker reveals that 90% of us are walking around with \"permanent scripts\" from childhood, directly governing our adult lives and behaviors. The storyteller shares a compelling example of a colleague whose profound pessimism was directly linked to their father's extreme negativity and rapidly changing moods. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #ChildhoodImpact #Psychology #PersonalGrowth #Mindset #AdultBehavior",
+  "tags": [
+    "speaker",
+    "childhoodimpact",
+    "psychology",
+    "personalgrowth",
+    "mindset",
+    "adultbehavior",
+    "shorts"
+  ],
+  "pinned_comment": "Speaker claims 90% of us are governed by childhood 'scripts.' Can you identify an adult behavior in yourself or others that clearly stems from childhood, just like the colleague's pessimism here? Share your insights 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-09T15:44:18.177252+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "input_test_video2_short",
+  "hook_type": "story",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[metric_count_up,blur_text_reveal]",
+  "active_templates": [
+    "metric_count_up",
+    "blur_text_reveal"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 6.73,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 90,
+        "prefix": "",
+        "suffix": "%",
+        "label": ""
+      }
+    },
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 44.72,
+      "duration": 2.18,
+      "priority": 9,
+      "params": {
+        "phrase": "a lot and they",
+        "phrase_start": 44.72,
+        "phrase_end": 46.6
+      }
+    }
+  ],
+  "content_hash": "51a77fac25a2493c7536eb114449f28ce77518129e7faabf11c43f3bb96a40d9",
+  "thumbnail_file": "input_test_video2_short_hook_6_thumb.jpg",
+  "thumb_offset_ms": 0
+}

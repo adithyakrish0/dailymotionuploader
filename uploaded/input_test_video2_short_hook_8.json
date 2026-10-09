@@ -1,0 +1,67 @@
+{
+  "video_filename": "input_test_video2_short_hook_8.mp4",
+  "title": "The Shocking Truth: Brainwash Yourself For Goals! 🧠 #shorts",
+  "description": "Speaker reveals how insidious \"micro-compliance\" is used by cult leaders, politicians, and even doctors (like a 90-point checklist leading to 50 compliances) to subtly manipulate you. He then provocatively suggests leveraging this very \"brainwashing\" technique of small, consistent wins to achieve your own personal goals. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #shorts #Brainwashing #MicroCompliance #GoalSetting #MindsetShift",
+  "tags": [
+    "speaker",
+    "shorts",
+    "brainwashing",
+    "microcompliance",
+    "goalsetting",
+    "mindsetshift"
+  ],
+  "pinned_comment": "Using 'brainwashing' tactics for your own goals sounds extreme. Do you think this is a valid approach, or just a dangerous rephrasing of self-discipline? Share your thoughts! 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-09T17:12:23.555765+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "input_test_video2_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[metric_count_up,blur_text_reveal,svg_draw_underline]",
+  "active_templates": [
+    "metric_count_up",
+    "blur_text_reveal",
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 18.97,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 90,
+        "prefix": "",
+        "suffix": "",
+        "label": ""
+      }
+    },
+    {
+      "id": "blur_text_reveal",
+      "type": "text_replace",
+      "start": 42.02,
+      "duration": 0.82,
+      "priority": 9,
+      "params": {
+        "phrase": "a way that you",
+        "phrase_start": 42.02,
+        "phrase_end": 42.54
+      }
+    },
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 55.12,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "BEGINNING",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "5c949d65c72a0eb1d0227b36a94a97f14f86aee7c6809a665032e2765404de26",
+  "thumbnail_file": "input_test_video2_short_hook_8_thumb.jpg",
+  "thumb_offset_ms": 0
+}
