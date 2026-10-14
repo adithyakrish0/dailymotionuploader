@@ -1,0 +1,79 @@
+{
+  "video_filename": "downloaded_input_short_hook_4.mp4",
+  "title": "How my 'boyish face' almost cost me my dream role 🤯 #shorts",
+  "description": "Speaker reveals the early career struggle of his 'boyish face,' recalling how even cutting his hair to look tougher only made him appear like a '12-year-old.' He recounts a pivotal moment at just 15, when his father had a serious talk about his youthful look as he desperately pursued a dream role for 'November Criminals.' ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #actinglife #boyishface #auditionstruggle #hollywooddreams #shorts",
+  "tags": [
+    "speaker",
+    "actinglife",
+    "boyishface",
+    "auditionstruggle",
+    "hollywooddreams",
+    "shorts"
+  ],
+  "pinned_comment": "Have you ever felt your appearance held you back from a big opportunity? Share your story 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-14T10:31:15.324748+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "downloaded_input_short",
+  "hook_type": "story",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[metric_count_up,rough_annotation,lottie_burst_accent,rough_annotation]",
+  "active_templates": [
+    "metric_count_up",
+    "rough_annotation",
+    "lottie_burst_accent",
+    "rough_annotation"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 13.969999999999999,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 12,
+        "prefix": "",
+        "suffix": "",
+        "label": ""
+      }
+    },
+    {
+      "id": "rough_annotation",
+      "type": "svg_hand_drawn",
+      "start": 40.78,
+      "duration": 1.4,
+      "priority": 8,
+      "params": {
+        "annotation_type": "circle",
+        "target_word": "15",
+        "color": "#FFD60A"
+      }
+    },
+    {
+      "id": "lottie_burst_accent",
+      "type": "lottie",
+      "start": 47.58,
+      "duration": 0.8,
+      "priority": 6,
+      "params": {
+        "lottie_file": "burst_accent.json"
+      }
+    },
+    {
+      "id": "rough_annotation",
+      "type": "svg_hand_drawn",
+      "start": 52.86,
+      "duration": 1.4,
+      "priority": 8,
+      "params": {
+        "annotation_type": "underline",
+        "target_word": "impossible.",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "db4b23853d92bfe9271d6788ac4c26b9db91988d14c5a30d0fd445eca44dab61",
+  "thumbnail_file": "downloaded_input_short_hook_4_thumb.jpg",
+  "thumb_offset_ms": 0
+}

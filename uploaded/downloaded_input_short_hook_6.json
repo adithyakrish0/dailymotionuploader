@@ -1,0 +1,41 @@
+{
+  "video_filename": "downloaded_input_short_hook_6.mp4",
+  "title": "The real comedy secret? Not being funny. 😂 #shorts",
+  "description": "Speaker learned a shocking truth working with Chris Pratt and Robert Downey Jr.: don't try to out-funny them. He realized true comedic honor comes from elevating others' humor, not relentlessly chasing laughs for yourself. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#Speaker #ChrisPratt #RobertDowneyJr #ComedySecrets #ActingTips #Collaboration",
+  "tags": [
+    "speaker",
+    "chrispratt",
+    "robertdowneyjr",
+    "comedysecrets",
+    "actingtips",
+    "collaboration",
+    "shorts"
+  ],
+  "pinned_comment": "Would you sacrifice your own comedic moment to make someone else shine brighter? 🤔 Let's discuss!",
+  "duration_seconds": 37.43,
+  "created_at": "2026-10-14T10:55:36.829018+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "downloaded_input_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[svg_draw_underline]",
+  "active_templates": [
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 27.1,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "LAUGH",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "c8a76a3dffe36cabfdb952d3f21634c01b4a35a8f22cb63418c3fd558b625515",
+  "thumbnail_file": "downloaded_input_short_hook_6_thumb.jpg",
+  "thumb_offset_ms": 0
+}
