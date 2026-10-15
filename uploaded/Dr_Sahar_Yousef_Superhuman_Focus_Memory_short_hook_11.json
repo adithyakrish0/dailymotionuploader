@@ -1,0 +1,40 @@
+{
+  "video_filename": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short_hook_11.mp4",
+  "title": "Stop Doing This During Your Work Breaks 🛑 #shorts",
+  "description": "Speaker reveals why TikTok scrolling and reading are actually destroying your brain's ability to rest. Using a brilliant weightlifting analogy, she proves that your mind needs true downtime to perform at a superhuman level. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#focus #productivity #brainhealth #mentalhealth #drsahayousef #shorts",
+  "tags": [
+    "focus",
+    "productivity",
+    "brainhealth",
+    "mentalhealth",
+    "drsahayousef",
+    "shorts"
+  ],
+  "pinned_comment": "Be honest: what's the very first thing you do when you take a break from work? Drop your guilty habit below 👇",
+  "duration_seconds": 48.07,
+  "created_at": "2026-10-15T14:45:35.376698+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[svg_draw_underline]",
+  "active_templates": [
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 41.04,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "READING",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "15b2d8d479a4bd2ef95d1f552363d668d0e7c5e9abc9075a375a8a07540dd141",
+  "thumbnail_file": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short_hook_11_thumb.jpg",
+  "thumb_offset_ms": 0
+}

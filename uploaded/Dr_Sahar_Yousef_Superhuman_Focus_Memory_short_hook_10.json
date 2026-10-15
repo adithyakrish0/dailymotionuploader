@@ -1,0 +1,40 @@
+{
+  "video_filename": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short_hook_10.mp4",
+  "title": "What Do People Regret Most On Their Deathbed? 💀 #shorts",
+  "description": "Dr. Sahar Yousef breaks down the ultimate regrets of the dying as logged by hospice nurse Bronnie Ware. She reveals why nobody on their deathbed wishes they spent more time scrolling or watching Netflix. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#drsaharyousef #regrets #deathbed #mindset #lifelessons #shorts",
+  "tags": [
+    "drsaharyousef",
+    "regrets",
+    "deathbed",
+    "mindset",
+    "lifelessons",
+    "shorts"
+  ],
+  "pinned_comment": "Be honest—if today was your last day, would you regret the amount of time you spend on your phone? Drop your thoughts 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-15T14:30:33.868538+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short",
+  "hook_type": "question",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[svg_draw_underline]",
+  "active_templates": [
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 43.08,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "CLARITY",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "b04743976cf4de4c30a548c6a095a34a2a9f17d661da8fe8091cfaa3bb98b6a9",
+  "thumbnail_file": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short_hook_10_thumb.jpg",
+  "thumb_offset_ms": 0
+}

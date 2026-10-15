@@ -1,0 +1,55 @@
+{
+  "video_filename": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short_hook_4.mp4",
+  "title": "What Steve Jobs Did Everyday That Made Him A Billionaire 🤯 #shorts",
+  "description": "Speaker shares Kevin O'Leary's inside story about how Steve Jobs mastered the 80/20 rule of extreme focus. Discover why true legendary focus isn't about choosing what to do, but having the brutal discipline to say no to brilliant ideas. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#SteveJobs #Focus #Productivity #ElonMusk #Mindset #Shorts",
+  "tags": [
+    "stevejobs",
+    "focus",
+    "productivity",
+    "elonmusk",
+    "mindset",
+    "shorts"
+  ],
+  "pinned_comment": "Could you actually say no to a brilliant idea just to protect your main focus? Drop your thoughts 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-15T12:54:54.973265+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short",
+  "hook_type": "story",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[metric_count_up,svg_draw_underline]",
+  "active_templates": [
+    "metric_count_up",
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 24.349999999999998,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 80,
+        "prefix": "",
+        "suffix": "",
+        "label": ""
+      },
+      "render_in_3d": true
+    },
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 47.24,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "FOCUS",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "b3aa364180594d1c5f810666a9e60dd19c5e82de23733f44193d60fee8379f70",
+  "thumbnail_file": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short_hook_4_thumb.jpg",
+  "thumb_offset_ms": 0
+}

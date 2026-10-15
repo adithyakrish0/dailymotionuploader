@@ -1,0 +1,40 @@
+{
+  "video_filename": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short_hook_5.mp4",
+  "title": "Why Social Media Apps Actually Want You Bored 🧠 #shorts",
+  "description": "Speaker reveals the dark psychological trick behind endless scrolling, explaining how algorithms intentionally feed you boring content right before hitting you with a dopamine jackpot. Discover the exact moment these platforms know you're about to leave and how they trap you. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#psychology #focus #dopamine #productivity #speaker #shorts",
+  "tags": [
+    "psychology",
+    "focus",
+    "dopamine",
+    "productivity",
+    "speaker",
+    "shorts"
+  ],
+  "pinned_comment": "Did the algorithm literally hit you with the jackpot right before this video? Drop your thoughts 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-15T13:10:57.884428+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[svg_draw_underline]",
+  "active_templates": [
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 42.48,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "BORING",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "59bb7a88a9bc2b274b2a81df422e453f6e5fd805174717c6e06a1a444a9474b1",
+  "thumbnail_file": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short_hook_5_thumb.jpg",
+  "thumb_offset_ms": 0
+}

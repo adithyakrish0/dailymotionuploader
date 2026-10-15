@@ -1,0 +1,55 @@
+{
+  "video_filename": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short_hook_3.mp4",
+  "title": "Your Phone Was Engineered To Hijack Your Brain 🧠 #shorts",
+  "description": "Cognitive neuroscientist Dr Sahar Yousef reveals that tech defaults are intentionally engineered by scientists to maximize addictive engagement. Speaker explains how even boring enterprise software like email and Slack are designed to force 24/7 corporate usage just to justify annual contract renewals. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#drsaharyousef #focus #neuroscience #productivity #techaddiction #shorts",
+  "tags": [
+    "drsaharyousef",
+    "focus",
+    "neuroscience",
+    "productivity",
+    "techaddiction",
+    "shorts"
+  ],
+  "pinned_comment": "Are you going to change your default phone settings after hearing this? Drop your thoughts 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-15T12:38:33.527239+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Speaker",
+  "source_show": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[svg_draw_underline,metric_count_up]",
+  "active_templates": [
+    "svg_draw_underline",
+    "metric_count_up"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 35.24,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "SOFTWARE",
+        "color": "#FFD60A"
+      }
+    },
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 44.77,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 24,
+        "prefix": "",
+        "suffix": "",
+        "label": ""
+      },
+      "render_in_3d": true
+    }
+  ],
+  "content_hash": "4bbfa721a2f7b115ca9e524fa0d14e37841accf73f93ce763a762652479f82fb",
+  "thumbnail_file": "Dr_Sahar_Yousef_Superhuman_Focus_Memory_short_hook_3_thumb.jpg",
+  "thumb_offset_ms": 0
+}
