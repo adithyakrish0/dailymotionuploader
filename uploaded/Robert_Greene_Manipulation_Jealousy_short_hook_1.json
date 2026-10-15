@@ -1,0 +1,51 @@
+{
+  "video_filename": "Robert_Greene_Manipulation_Jealousy_short_hook_1.mp4",
+  "title": "Why You Hide Your Darkest Side 🌑 #shorts",
+  "description": "Robert Greene reveals how children are forced by society and parents to cut off their natural aggressive impulses and bury them underground. This lifelong suppression creates a hidden shadow self that ultimately controls our envy and manipulation. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#robertgreene #humannature #psychology #shadowwork #shorts",
+  "tags": [
+    "robertgreene",
+    "humannature",
+    "psychology",
+    "shadowwork",
+    "shorts"
+  ],
+  "pinned_comment": "What part of your 'dark side' were you forced to hide the most growing up? Drop your thoughts 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-14T17:24:40.743329+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Robert Greene",
+  "source_show": "Robert_Greene_Manipulation_Jealousy_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[editorial_lower_third,svg_draw_underline]",
+  "active_templates": [
+    "editorial_lower_third",
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "editorial_lower_third",
+      "type": "html_svg",
+      "start": 1.2,
+      "duration": 3.2,
+      "priority": 10,
+      "params": {
+        "speaker": "ROBERT GREENE",
+        "subtitle": "ROBERT_GREENE_MANIPULATION_JEALOU..."
+      }
+    },
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 36.68,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "YOURS",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "bda2295d75b6a69f11b312ea6dfd21eec9a15dbf3085faf0688a49b9e8e5d52e",
+  "thumbnail_file": "Robert_Greene_Manipulation_Jealousy_short_hook_1_thumb.jpg",
+  "thumb_offset_ms": 0
+}

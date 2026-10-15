@@ -1,0 +1,53 @@
+{
+  "video_filename": "Robert_Greene_Manipulation_Jealousy_short_hook_8.mp4",
+  "title": "Your Closest Friend Is Secretly Sabotaging You 🐍 #shorts",
+  "description": "Robert Greene reveals the dark psychology behind 'frenemies' who mask deep envy with fake friendship. He explains how they subtly undermine your confidence while making you blame yourself for their toxic behavior. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#robertgreene #humannature #toxicfriends #psychology #mindset #shorts",
+  "tags": [
+    "robertgreene",
+    "humannature",
+    "toxicfriends",
+    "psychology",
+    "mindset",
+    "shorts"
+  ],
+  "pinned_comment": "Have you ever realized a close friend was actually sabotaging you behind your back? Drop your story below 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-15T09:29:50.373437+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Robert Greene",
+  "source_show": "Robert_Greene_Manipulation_Jealousy_short",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[editorial_lower_third,rough_annotation]",
+  "active_templates": [
+    "editorial_lower_third",
+    "rough_annotation"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "editorial_lower_third",
+      "type": "html_svg",
+      "start": 1.2,
+      "duration": 3.2,
+      "priority": 10,
+      "params": {
+        "speaker": "ROBERT GREENE",
+        "subtitle": "ROBERT_GREENE_MANIPULATION_JEALOU..."
+      }
+    },
+    {
+      "id": "rough_annotation",
+      "type": "svg_hand_drawn",
+      "start": 23.5,
+      "duration": 1.4,
+      "priority": 8,
+      "params": {
+        "annotation_type": "underline",
+        "target_word": "success",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "9e207ab0bf7995735de3c0e5d49340e274382c34839469b7d5090716171da9ad",
+  "thumbnail_file": "Robert_Greene_Manipulation_Jealousy_short_hook_8_thumb.jpg",
+  "thumb_offset_ms": 0
+}

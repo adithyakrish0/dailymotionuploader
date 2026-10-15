@@ -1,0 +1,77 @@
+{
+  "video_filename": "Robert_Greene_Manipulation_Jealousy_short_hook_3.mp4",
+  "title": "Why Andrew Huberman Walked Away From Stanford 🤯 #shorts",
+  "description": "Robert Greene reveals how Andrew Huberman successfully abandoned a fast-track Stanford professorship in his early thirties to pioneer podcasting. This powerful reinvention saved him from the toxic politicking of academia. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#robertgreene #andrewhuberman #careeradvice #mindset #motivation #shorts",
+  "tags": [
+    "robertgreene",
+    "andrewhuberman",
+    "careeradvice",
+    "mindset",
+    "motivation",
+    "shorts"
+  ],
+  "pinned_comment": "Would you walk away from a prestigious Stanford career to start over in your 30s? Drop your thoughts 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-14T18:17:20.000206+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Robert Greene",
+  "source_show": "Robert_Greene_Manipulation_Jealousy_short",
+  "hook_type": "story",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[editorial_lower_third,lottie_burst_accent,svg_draw_underline,metric_count_up]",
+  "active_templates": [
+    "editorial_lower_third",
+    "lottie_burst_accent",
+    "svg_draw_underline",
+    "metric_count_up"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "editorial_lower_third",
+      "type": "html_svg",
+      "start": 1.2,
+      "duration": 3.2,
+      "priority": 10,
+      "params": {
+        "speaker": "ROBERT GREENE",
+        "subtitle": "ROBERT_GREENE_MANIPULATION_JEALOU..."
+      }
+    },
+    {
+      "id": "lottie_burst_accent",
+      "type": "lottie",
+      "start": 45.62,
+      "duration": 0.8,
+      "priority": 6,
+      "params": {
+        "lottie_file": "burst_accent.json"
+      }
+    },
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 50.96,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "ABOUT",
+        "color": "#FFD60A"
+      }
+    },
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 55.77,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 47,
+        "prefix": "",
+        "suffix": "",
+        "label": ""
+      }
+    }
+  ],
+  "content_hash": "11a11f8c72d6de476ccfd7f9e6b04d74443f99975ca8efb9eccb72b00986835c",
+  "thumbnail_file": "Robert_Greene_Manipulation_Jealousy_short_hook_3_thumb.jpg",
+  "thumb_offset_ms": 0
+}

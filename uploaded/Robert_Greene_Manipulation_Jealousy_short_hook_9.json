@@ -1,0 +1,63 @@
+{
+  "video_filename": "Robert_Greene_Manipulation_Jealousy_short_hook_9.mp4",
+  "title": "Robert Greene's Darkest Secret 🧠 #shorts",
+  "description": "Master of strategy Robert Greene opens up about his deepest personal doubts, physical decline, and battles with suicidal ideation. He reveals how he constantly has to talk himself out of the darkness and fight his inner critic. ⚡\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#robertgreene #darkthoughts #mentalhealth #mindset #stoicism #shorts",
+  "tags": [
+    "robertgreene",
+    "darkthoughts",
+    "mentalhealth",
+    "mindset",
+    "stoicism",
+    "shorts"
+  ],
+  "pinned_comment": "Have you ever had to fight your own mind just to keep going? Drop your thoughts 👇",
+  "duration_seconds": 58.5,
+  "created_at": "2026-10-15T09:46:38.425235+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Robert Greene",
+  "source_show": "Robert_Greene_Manipulation_Jealousy_short",
+  "hook_type": "confession",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[editorial_lower_third,lottie_burst_accent,svg_draw_underline]",
+  "active_templates": [
+    "editorial_lower_third",
+    "lottie_burst_accent",
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "editorial_lower_third",
+      "type": "html_svg",
+      "start": 1.2,
+      "duration": 3.2,
+      "priority": 10,
+      "params": {
+        "speaker": "ROBERT GREENE",
+        "subtitle": "ROBERT_GREENE_MANIPULATION_JEALOU..."
+      }
+    },
+    {
+      "id": "lottie_burst_accent",
+      "type": "lottie",
+      "start": 46.48,
+      "duration": 0.8,
+      "priority": 6,
+      "params": {
+        "lottie_file": "burst_accent.json"
+      }
+    },
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 52.68,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "AGAIN",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "26f7c34fab7176d3c78c7f393a41f031500b9383e0ccdca8a970bf4135147f18",
+  "thumbnail_file": "Robert_Greene_Manipulation_Jealousy_short_hook_9_thumb.jpg",
+  "thumb_offset_ms": 0
+}
