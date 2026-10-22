@@ -26,16 +26,13 @@ def send_telegram_notification(platform_name, video_title, video_url, remaining_
     else:
         queue_info = "🏁 <b>Queue:</b> All videos posted! Queue is empty."
 
-    message = (
-        f"🚀 <b>{platform_name} Upload Confirmed!</b>
-
-"
-        f"🎬 <b>Title:</b> {escaped_title}
-"
-        f"🔗 <b>Link:</b> <a href=\"{video_url}\">{video_url}</a>
-"
-        f"{queue_info}"
-    )
+    lines = [
+        f"🚀 <b>{platform_name} Upload Confirmed!</b>\n",
+        f"🎬 <b>Title:</b> {escaped_title}",
+        f"🔗 <b>Link:</b> <a href=\"{video_url}\">{video_url}</a>",
+        queue_info
+    ]
+    message = "\n".join(lines)
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     payload = {
         "chat_id": chat_id,
