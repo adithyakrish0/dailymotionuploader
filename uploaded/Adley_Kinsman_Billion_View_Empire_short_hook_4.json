@@ -1,0 +1,68 @@
+{
+  "video_filename": "Adley_Kinsman_Billion_View_Empire_short_hook_4.mp4",
+  "title": "She Made $60K Off One Cringey Video 🤯 #shorts",
+  "description": "Adley Kinsman reveals how she embraced making rage-bait videos to fund her family's adoptions and put people through college. By reverse-engineering why terrible content goes viral, she turned $60,000 payoffs into a masterclass in capturing human attention. ⚡\n\nShow: BILF Podcast with Mara Dorne (@bilfpod)\nGuest: Adley Kinsman\n#bilfpodpartner @bilfpod\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#adleykinsman #contentcreator #viralmarketing #socialmediatips #shorts #bilfpodpartner #bilfpod",
+  "tags": [
+    "adleykinsman",
+    "contentcreator",
+    "viralmarketing",
+    "socialmediatips",
+    "shorts",
+    "bilfpodpartner",
+    "bilfpod"
+  ],
+  "pinned_comment": "Would you make a cringe video for 3 minutes if it paid $60,000? Drop your honest thoughts 👇",
+  "duration_seconds": 42.67,
+  "created_at": "2026-10-22T18:02:17.064942+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Adley Kinsman",
+  "source_show": "BILF Podcast with Mara Dorne",
+  "hook_type": "story",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+templates[editorial_lower_third,metric_count_up,lottie_burst_accent]",
+  "active_templates": [
+    "editorial_lower_third",
+    "metric_count_up",
+    "lottie_burst_accent"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "editorial_lower_third",
+      "type": "html_svg",
+      "start": 1.2,
+      "duration": 3.2,
+      "priority": 10,
+      "params": {
+        "speaker": "ADLEY KINSMAN",
+        "subtitle": "DOCUMENTARY SERIES"
+      },
+      "render_in_3d": true
+    },
+    {
+      "id": "metric_count_up",
+      "type": "counter",
+      "start": 23.15,
+      "duration": 2.5,
+      "priority": 8,
+      "params": {
+        "target_value": 60,
+        "prefix": "",
+        "suffix": "",
+        "label": ""
+      },
+      "render_in_3d": true
+    },
+    {
+      "id": "lottie_burst_accent",
+      "type": "lottie",
+      "start": 33.12,
+      "duration": 0.8,
+      "priority": 6,
+      "params": {
+        "lottie_file": "burst_accent.json"
+      }
+    }
+  ],
+  "content_hash": "d77f79364f7082c823563d42de5f2410e7772a9db535767e8de1582c42f8c1f9",
+  "thumbnail_file": "Adley_Kinsman_Billion_View_Empire_short_hook_4_thumb.jpg",
+  "thumb_offset_ms": 0
+}

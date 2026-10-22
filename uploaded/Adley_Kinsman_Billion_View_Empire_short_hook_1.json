@@ -1,0 +1,54 @@
+{
+  "video_filename": "Adley_Kinsman_Billion_View_Empire_short_hook_1.mp4",
+  "title": "Fuck Your Feelings, Master The Algorithm 📈 #shorts",
+  "description": "Adley Kinsman drops a brutal reality check about why having a blueprint means nothing if you refuse to reverse-engineer your ultimate outcome. She argues that ego is the silent killer of growth and teaches why you must kill your feelings to conquer the algorithm. ⚡\n\nShow: BILF Podcast with Mara Dorne (@bilfpod)\nGuest: Adley Kinsman\n#bilfpodpartner @bilfpod\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#adleykinsman #contentstrategy #mindset #growthmindset #shorts #bilfpodpartner #bilfpod",
+  "tags": [
+    "adleykinsman",
+    "contentstrategy",
+    "mindset",
+    "growthmindset",
+    "shorts",
+    "bilfpodpartner",
+    "bilfpod"
+  ],
+  "pinned_comment": "Do you agree with Adley that ego and feelings ruin your content, or is staying authentic more important? Drop your thoughts 👇",
+  "duration_seconds": 40.8,
+  "created_at": "2026-10-22T17:09:03.050995+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Adley Kinsman",
+  "source_show": "BILF Podcast with Mara Dorne",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[editorial_lower_third,svg_draw_underline]",
+  "active_templates": [
+    "editorial_lower_third",
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "editorial_lower_third",
+      "type": "html_svg",
+      "start": 1.2,
+      "duration": 3.2,
+      "priority": 10,
+      "params": {
+        "speaker": "ADLEY KINSMAN",
+        "subtitle": "DOCUMENTARY SERIES"
+      },
+      "render_in_3d": true
+    },
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 30.4,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "FUNNY",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "content_hash": "7d43e7f429d8c1ea79cde56bd7b4018d478b545d2b601eaab24d7b65f215a9e8",
+  "thumbnail_file": "Adley_Kinsman_Billion_View_Empire_short_hook_1_thumb.jpg",
+  "thumb_offset_ms": 0
+}
