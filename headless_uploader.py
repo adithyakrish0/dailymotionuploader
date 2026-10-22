@@ -14,18 +14,37 @@ def get_token(client_id, client_secret):
     r.raise_for_status()
     return r.json()['access_token']
 
-def send_telegram_alert(message):
+def send_telegram_notification(platform_name, video_title, video_url, remaining_count):
     bot_token = os.environ.get("TELEGRAM_BOT_TOKEN")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID")
     if not bot_token or not chat_id:
         return
+    import html
+    escaped_title = html.escape(video_title or "Untitled")
+    if remaining_count > 0:
+        queue_info = f"📦 <b>Queue:</b> {remaining_count} video(s) remaining"
+    else:
+        queue_info = "🏁 <b>Queue:</b> All videos posted! Queue is empty."
+
+    message = (
+        f"🚀 <b>{platform_name} Upload Confirmed!</b>
+
+"
+        f"🎬 <b>Title:</b> {escaped_title}
+"
+        f"🔗 <b>Link:</b> <a href=\"{video_url}\">{video_url}</a>
+"
+        f"{queue_info}"
+    )
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     payload = {
         "chat_id": chat_id,
-        "text": message
+        "text": message,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": False
     }
     try:
-        requests.post(url, json=payload)
+        requests.post(url, json=payload, timeout=10)
     except Exception as e:
         print(f"Failed to send telegram alert: {e}")
 
@@ -110,8 +129,13 @@ def main():
         print(f"Cleaned up local files for {base_name}.")
         
         remaining = len(mp4s) - 1
-        msg = f"[Dailymotion] ✅ Upload successful! There are {remaining} video(s) remaining in the queue."
-        send_telegram_alert(msg)
+        video_url = f"https://www.dailymotion.com/video/{video_id}"
+        send_telegram_notification(
+            platform_name="Dailymotion",
+            video_title=title,
+            video_url=video_url,
+            remaining_count=remaining
+        )
         
     except requests.exceptions.RequestException as e:
         print(f"API Error uploading {mp4_file}: {e}")
