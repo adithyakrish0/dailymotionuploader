@@ -116,7 +116,9 @@ def main():
         }
         video_resp = requests.post(f"https://api.dailymotion.com/v2/profiles/{profile_id}/videos", headers=headers, json=payload)
         video_resp.raise_for_status()
-        video_id = video_resp.json().get('id')
+        resp_data = video_resp.json()
+        print(f"Dailymotion API response: {resp_data}")
+        video_id = resp_data.get('id') or resp_data.get('data', {}).get('id') or resp_data.get('video_id') or resp_data.get('xid')
         print(f"Success! Dailymotion video created: {video_id}")
         
         # Cleanup
