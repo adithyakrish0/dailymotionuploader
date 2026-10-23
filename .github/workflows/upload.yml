@@ -1,15 +1,7 @@
 name: Scheduled Dailymotion Cloud Uploader
 
 on:
-  schedule:
-    # 05:00 PM IST -> 11:30 UTC
-    - cron: '30 11 * * *'
-    # 10:00 PM IST -> 16:30 UTC
-    - cron: '30 16 * * *'
-    # 03:00 AM IST -> 21:30 UTC
-    - cron: '30 21 * * *'
-    # 06:30 AM IST -> 01:00 UTC
-    - cron: '0 1 * * *'
+  # Automated schedule disabled — on-demand via Telegram only
   workflow_dispatch:
 
 permissions:
