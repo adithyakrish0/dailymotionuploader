@@ -1,0 +1,69 @@
+{
+  "video_filename": "2_Bears_1_Cave_Ep_344_short_hook_4.mp4",
+  "title": "Comedians Have Zero Real Friends 🤯 #shorts",
+  "description": "Tom Segura and Bert Kreischer expose the brutal isolation of life on a tour bus surrounded only by paid staff and comics. They reveal how touring destroys normal social routines, leaving comedians isolated as lone wolves. ⚡\n\nShow: 2 Bears 1 Cave Ep. 344\nHosts: Tom Segura & Bert Kreischer (@ymhstudios)\n#2BearsWeekly @ymhstudios\nLink to full Ep. 344 in bio!\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#tomsegura #bertkreischer #2bears1cave #comedians #friendship #shorts #2BearsWeekly #comedy",
+  "tags": [
+    "tomsegura",
+    "bertkreischer",
+    "2bears1cave",
+    "comedians",
+    "friendship",
+    "shorts",
+    "2bearsweekly",
+    "comedy"
+  ],
+  "pinned_comment": "Do you agree that comedians are just lone wolves, or can they actually maintain normal friendships? Drop your thoughts 👇",
+  "duration_seconds": 50.07,
+  "created_at": "2026-10-25T08:32:22.357417+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Tom Segura & Bert Kreischer",
+  "source_show": "2 Bears 1 Cave Ep. 344",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[editorial_lower_third,imessage_dialogue_card,svg_draw_underline]",
+  "active_templates": [
+    "editorial_lower_third",
+    "imessage_dialogue_card",
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "editorial_lower_third",
+      "type": "html_svg",
+      "start": 4.5,
+      "duration": 3.2,
+      "priority": 10,
+      "params": {
+        "speaker": "TOM SEGURA & BERT KREISCHER",
+        "subtitle": "2 BEARS 1 CAVE"
+      },
+      "render_in_3d": true
+    },
+    {
+      "id": "imessage_dialogue_card",
+      "type": "simulated_ui",
+      "start": 23.18,
+      "duration": 2.6,
+      "priority": 9,
+      "params": {
+        "sender": "Fan",
+        "message": "How you doing? Thank you, man. Thank you. Oh, well, you're someone. Who are you? 👋"
+      }
+    },
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 28.46,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "SHIRTLESS",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "campaign_name": "2 Bears 1 Cave ($1.00 CPM)",
+  "campaign_url": "https://contentrewards.com/c/campaigns/295e9879-4464-4a31-975d-1c7b3a80d359",
+  "content_hash": "6069dc3fd2b0657e9603eea5d0c1b17a66e8aac56b889b7ff9b02d34a416ab35",
+  "thumbnail_file": "2_Bears_1_Cave_Ep_344_short_hook_4_thumb.jpg",
+  "thumb_offset_ms": 0
+}

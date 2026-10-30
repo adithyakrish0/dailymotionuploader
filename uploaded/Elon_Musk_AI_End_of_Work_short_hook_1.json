@@ -1,0 +1,86 @@
+{
+  "video_filename": "Elon_Musk_AI_End_of_Work_short_hook_1.mp4",
+  "title": "Why Forcing AI To Lie Makes It Insane 🤯 #shorts",
+  "description": "Elon Musk breaks down the cinematic lesson from 2001: A Space Odyssey to reveal the hidden danger of AI insanity. He explains how forcing an artificial intelligence to believe mutually inconsistent things will ultimately drive it mad. ⚡\n\nSpeaker: Elon Musk\nTopic: AI Safety & Future\n#elonmusk #ai\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#elonmusk #artificialintelligence #futuretech #openai #shorts #ai #futureofai #tech",
+  "tags": [
+    "elonmusk",
+    "artificialintelligence",
+    "futuretech",
+    "openai",
+    "shorts",
+    "ai",
+    "futureofai",
+    "tech"
+  ],
+  "pinned_comment": "Can we actually build an AI that is 100% truth-seeking without crashing its core programming? Drop your thoughts 👇",
+  "duration_seconds": 50.23,
+  "created_at": "2026-10-25T13:20:52.797549+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Elon Musk",
+  "source_show": "Elon Musk // World Run by AI",
+  "hook_type": "contrarian_claim",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[editorial_lower_third,rough_annotation,ios_toggle_checklist,svg_draw_underline]",
+  "active_templates": [
+    "editorial_lower_third",
+    "rough_annotation",
+    "ios_toggle_checklist",
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "editorial_lower_third",
+      "type": "html_svg",
+      "start": 4.5,
+      "duration": 2.0,
+      "priority": 10,
+      "params": {
+        "speaker": "ELON MUSK",
+        "subtitle": "ELON MUSK"
+      },
+      "render_in_3d": true
+    },
+    {
+      "id": "rough_annotation",
+      "type": "svg_hand_drawn",
+      "start": 11.22,
+      "duration": 1.4,
+      "priority": 8,
+      "params": {
+        "annotation_type": "circle",
+        "target_word": "2001",
+        "color": "#FFD60A"
+      }
+    },
+    {
+      "id": "ios_toggle_checklist",
+      "type": "apple_glass",
+      "start": 34.36,
+      "duration": 3.0,
+      "priority": 8,
+      "params": {
+        "title": "AI SAFETY PROTOCOL",
+        "items": [
+          "Truth-Seeking Core",
+          "Maximum Curiosity",
+          "Zero Forced Deception"
+        ]
+      }
+    },
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 44.56,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "SAFER",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "campaign_name": "Tech & AI Leaders",
+  "campaign_url": null,
+  "content_hash": "72e5cc5848c0ad10c09371e4d94b927a6ee5447ebe97f163d601fadbdef7f6ca",
+  "thumbnail_file": "Elon_Musk_AI_End_of_Work_short_hook_1_thumb.jpg",
+  "thumb_offset_ms": 0
+}

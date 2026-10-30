@@ -1,0 +1,58 @@
+{
+  "video_filename": "2_Bears_1_Cave_Ep_344_short_hook_3.mp4",
+  "title": "Booking a Comic Who Survived 4 Strokes 🤯 #shorts",
+  "description": "Tom Segura & Bert Kreischer break down an incredible podcast episode featuring veteran comic Keith Robinson. Despite surviving four strokes, Keith delivers elite insight because he's been grinding in stand-up since 1985. ⚡\n\nShow: 2 Bears 1 Cave Ep. 344\nHosts: Tom Segura & Bert Kreischer (@ymhstudios)\n#2BearsWeekly @ymhstudios\nLink to full Ep. 344 in bio!\n\nFollow RetentionLab for daily high-retention discipline insights:\n👉 Instagram: @retentionlab.media\n👉 YouTube: @retentionlab-media\n\n#tomsegura #bertkreischer #standupcomedy #podcastclips #motivation #shorts #2BearsWeekly #2bears1cave #comedy",
+  "tags": [
+    "tomsegura",
+    "bertkreischer",
+    "standupcomedy",
+    "podcastclips",
+    "motivation",
+    "shorts",
+    "2bearsweekly",
+    "2bears1cave",
+    "comedy"
+  ],
+  "pinned_comment": "Would you still get on stage after surviving four strokes? Drop your thoughts 👇",
+  "duration_seconds": 44.9,
+  "created_at": "2026-10-24T17:06:20.621657+00:00",
+  "status": "ready_for_upload",
+  "speaker": "Tom Segura & Bert Kreischer",
+  "source_show": "2 Bears 1 Cave Ep. 344",
+  "hook_type": "statistic",
+  "style_flags": "lut+grain+vignette+lifted_blacks+drift+hook_hit+sound_design+hud_cards+filler_cut+gemini_curation+guarantee_all+no_number+templates[editorial_lower_third,svg_draw_underline]",
+  "active_templates": [
+    "editorial_lower_third",
+    "svg_draw_underline"
+  ],
+  "scheduled_templates": [
+    {
+      "id": "editorial_lower_third",
+      "type": "html_svg",
+      "start": 4.5,
+      "duration": 3.2,
+      "priority": 10,
+      "params": {
+        "speaker": "TOM SEGURA & BERT KREISCHER",
+        "subtitle": "2 BEARS 1 CAVE"
+      },
+      "render_in_3d": true
+    },
+    {
+      "id": "svg_draw_underline",
+      "type": "svg_stroke",
+      "start": 33.3,
+      "duration": 1.2,
+      "priority": 7,
+      "params": {
+        "target_word": "EVERYONE",
+        "color": "#FFD60A"
+      }
+    }
+  ],
+  "campaign_name": "2 Bears 1 Cave ($1.00 CPM)",
+  "campaign_url": "https://contentrewards.com/c/campaigns/295e9879-4464-4a31-975d-1c7b3a80d359",
+  "content_hash": "9ca0c8d48a72f9c5980b9eb7de9fb3c6ff72fba070c7765390315dfd98cdefe9",
+  "thumbnail_file": "2_Bears_1_Cave_Ep_344_short_hook_3_thumb.jpg",
+  "thumb_offset_ms": 0
+}

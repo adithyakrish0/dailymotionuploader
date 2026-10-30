@@ -8,7 +8,8 @@ def get_token(client_id, client_secret):
     data = {
         'grant_type': 'client_credentials',
         'client_id': client_id,
-        'client_secret': client_secret
+        'client_secret': client_secret,
+        'scope': 'manage_videos'
     }
     r = requests.post(url, data=data)
     r.raise_for_status()
