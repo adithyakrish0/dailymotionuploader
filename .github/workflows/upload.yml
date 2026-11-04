@@ -1,7 +1,10 @@
 name: Scheduled Dailymotion Cloud Uploader
 
 on:
-  # Automated schedule disabled — on-demand via Telegram only
+  schedule:
+    - cron: '0 6 * * *'    # 11:30 AM IST (06:00 UTC)
+    - cron: '30 11 * * *'  # 05:00 PM IST (11:30 UTC)
+    - cron: '0 16 * * *'   # 09:30 PM IST (16:00 UTC)
   workflow_dispatch:
 
 permissions:
@@ -35,6 +38,8 @@ jobs:
           DM_PROFILE_ID: ${{ secrets.DM_PROFILE_ID }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          EVENT_NAME: ${{ github.event_name }}
+          MANUAL_TRIGGER: ${{ github.event_name == 'workflow_dispatch' && 'true' || 'false' }}
         run: |
           python headless_uploader.py
 

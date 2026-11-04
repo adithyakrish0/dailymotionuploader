@@ -1,3 +1,16 @@
+def is_contentrewards_clip(metadata: dict) -> bool:
+    """Checks if video belongs to ContentRewards or any sponsored clipping campaign."""
+    if not isinstance(metadata, dict):
+        return False
+    camp_url = str(metadata.get("campaign_url") or "").strip().lower()
+    camp_name = str(metadata.get("campaign_name") or "").strip().lower()
+    camp_tags = str(metadata.get("campaign_tags") or "").strip().lower()
+    if camp_url or "contentrewards" in camp_name or "contentrewards" in camp_tags:
+        return True
+    if metadata.get("is_campaign") is True:
+        return True
+    return False
+
 import os
 import sys
 import json
@@ -67,22 +80,52 @@ def main():
         print("Queue is empty. No videos to upload.")
         return
         
-    # Just upload the first one in the queue
-    mp4_file = sorted(mp4s)[0]
-    base_name = mp4_file.replace('.mp4', '')
-    
+    is_manual = (
+        "--manual" in sys.argv
+        or os.environ.get("MANUAL_TRIGGER", "").lower() in ("true", "1", "yes")
+        or os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
+        or os.environ.get("EVENT_NAME") == "workflow_dispatch"
+    )
+
+    candidates = []
+    for f in sorted(mp4s):
+        b_name = f.replace('.mp4', '')
+        j_path = os.path.join(upload_dir, b_name + '.json')
+        meta = {}
+        if os.path.exists(j_path):
+            try:
+                with open(j_path, 'r', encoding='utf-8') as jf:
+                    meta = json.load(jf)
+            except Exception:
+                pass
+
+        is_campaign = is_contentrewards_clip(meta)
+
+        if not is_manual and is_campaign:
+            print(f"🛑 [SCHEDULED 3X/DAY RUN] Skipping ContentRewards campaign video '{f}'.")
+            print("   🔒 Protected: ContentRewards clips are strictly reserved for on-demand /upload.")
+            continue
+
+        candidates.append((f, b_name, meta, is_campaign))
+
+    if not candidates:
+        print("ℹ️ No eligible videos to upload (queue empty or all pending videos are protected ContentRewards campaigns).")
+        return
+
+    if is_manual:
+        camp_matches = [c for c in candidates if c[3]]
+        chosen = camp_matches[0] if camp_matches else candidates[0]
+        if camp_matches:
+            print(f"🎯 [MANUAL /upload TRIGGER] Prioritizing ContentRewards campaign clip: {chosen[0]}")
+    else:
+        chosen = candidates[0]
+        print(f"🤖 [SCHEDULED AUTO-RUN] Selected general video: {chosen[0]}")
+
+    mp4_file, base_name, metadata, _ = chosen
     mp4_path = os.path.join(upload_dir, mp4_file)
     json_path = os.path.join(upload_dir, base_name + '.json')
     thumb_path = os.path.join(upload_dir, base_name + '_thumb.jpg')
-    
-    title = base_name[:255]
-    if os.path.exists(json_path):
-        try:
-            with open(json_path, 'r', encoding='utf-8') as f:
-                metadata = json.load(f)
-            title = metadata.get("title", title)[:255]
-        except Exception as e:
-            print(f"Error reading metadata: {e}")
+    title = metadata.get("title", base_name[:255])
 
     print(f"Starting upload for {mp4_file} to Dailymotion...")
     try:
