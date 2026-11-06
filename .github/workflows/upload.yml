@@ -1,10 +1,10 @@
 name: Scheduled Dailymotion Cloud Uploader
 
 on:
-  schedule:
-    - cron: '0 6 * * *'    # 11:30 AM IST (06:00 UTC)
-    - cron: '30 11 * * *'  # 05:00 PM IST (11:30 UTC)
-    - cron: '0 16 * * *'   # 09:30 PM IST (16:00 UTC)
+  # schedule:
+  #   - cron: '0 6 * * *'    # 11:30 AM IST (06:00 UTC) - PAUSED FOR PERPLEXITY CAMPAIGN
+  #   - cron: '30 11 * * *'  # 05:00 PM IST (11:30 UTC) - PAUSED FOR PERPLEXITY CAMPAIGN
+  #   - cron: '0 16 * * *'   # 09:30 PM IST (16:00 UTC) - PAUSED FOR PERPLEXITY CAMPAIGN
   workflow_dispatch:
 
 permissions:
