@@ -6,6 +6,11 @@ on:
   #   - cron: '30 11 * * *'  # 05:00 PM IST (11:30 UTC) - PAUSED FOR PERPLEXITY CAMPAIGN
   #   - cron: '0 16 * * *'   # 09:30 PM IST (16:00 UTC) - PAUSED FOR PERPLEXITY CAMPAIGN
   workflow_dispatch:
+    inputs:
+      gate_key:
+        description: 'Manual Trigger Gate Key'
+        required: true
+        type: string
 
 permissions:
   contents: write
@@ -19,6 +24,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Verify Manual Gate Authorization
+        run: |
+          if [ "${{ inputs.gate_key }}" != "antigravity_authorized" ]; then
+            echo "❌ Blocked: Unauthorized external trigger. Aborting to protect ContentRewards window."
+            exit 1
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v5
