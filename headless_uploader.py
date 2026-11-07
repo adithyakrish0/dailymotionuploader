@@ -36,7 +36,7 @@ def send_telegram_notification(platform_name, video_title, video_url, remaining_
     import html
     escaped_title = html.escape(video_title or "Untitled")
     if remaining_count > 0:
-        queue_info = f"📦 <b>Queue:</b> {remaining_count} video(s) remaining"
+        queue_info = f"📦 <b>Queue:</b> {remaining_count} video(s) remaining (🎯 <b>Campaign:</b> {campaign_count} | 🎬 <b>General:</b> {general_count})"
     else:
         queue_info = "🏁 <b>Queue:</b> All videos posted! Queue is empty."
 
@@ -171,13 +171,16 @@ def main():
         if os.path.exists(thumb_path): os.remove(thumb_path)
         print(f"Cleaned up local files for {base_name}.")
         
-        remaining = len(mp4s) - 1
+        total_rem, camp_rem, gen_rem = get_queue_breakdown("uploaded")
+        remaining = total_rem
         video_url = f"https://www.dailymotion.com/video/{video_id}"
         send_telegram_notification(
             platform_name="Dailymotion",
             video_title=title,
             video_url=video_url,
-            remaining_count=remaining
+            remaining_count=remaining,
+            campaign_count=camp_rem,
+            general_count=gen_rem
         )
         
     except requests.exceptions.RequestException as e:
