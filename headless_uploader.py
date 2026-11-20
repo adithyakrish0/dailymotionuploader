@@ -87,8 +87,27 @@ def main():
         or os.environ.get("EVENT_NAME") == "workflow_dispatch"
     )
 
+    def get_ts(j_file, m_file):
+        c_str = ""
+        if os.path.exists(j_file):
+            try:
+                with open(j_file, 'r', encoding='utf-8') as jf:
+                    meta = json.load(jf)
+                    c_str = str(meta.get("created_at") or meta.get("rendered_at") or "").strip()
+            except Exception:
+                pass
+        mtime = 0.0
+        try:
+            mtime = os.path.getmtime(m_file)
+        except Exception:
+            pass
+        return (c_str, mtime)
+
+    # Sort newest staged video first
+    mp4s_sorted = sorted(mp4s, key=lambda f: get_ts(os.path.join(upload_dir, f.replace('.mp4', '.json')), os.path.join(upload_dir, f)), reverse=True)
+
     candidates = []
-    for f in sorted(mp4s):
+    for f in mp4s_sorted:
         b_name = f.replace('.mp4', '')
         j_path = os.path.join(upload_dir, b_name + '.json')
         meta = {}
